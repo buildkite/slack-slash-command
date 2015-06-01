@@ -4,6 +4,8 @@ An example [Slack Slash Command](https://api.slack.com/slash-commands) for [Buil
 
 ![](http://i.imgur.com/B8Crsbc.gif)
 
+If you want something more powerful and flexible check out [buildkite/slack-webhook](https://github.com/buildkite/slack-webhook) instead!
+
 ## Usage
 
 1. **Fork it**
